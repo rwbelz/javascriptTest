@@ -1,0 +1,2 @@
+# javascriptTest
+javascript test template
